@@ -1,0 +1,6 @@
+customtkinter
+requests
+Pillow
+nltk
+winotify
+pywinstyles
