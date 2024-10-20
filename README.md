@@ -1,4 +1,4 @@
-# Weather Application
+# Weather Application ![Weather Icon](https://github.com/Kowshik-R-2026/Weather_Application/blob/main/weatherapp_icon.ico)
 
 This Weather Application is a user-friendly tool built with Python and CustomTkinter that provides real-time weather forecasts, temperature alerts, and notifications. It allows users to select their preferred temperature units, update intervals, and notification settings while also displaying weather data in a visually appealing manner.
 
