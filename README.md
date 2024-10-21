@@ -2,6 +2,9 @@
 
 This Weather Application is a user-friendly tool built with Python and CustomTkinter that provides real-time weather forecasts, temperature alerts, and notifications. It allows users to select their preferred temperature units, update intervals, and notification settings while also displaying weather data in a visually appealing manner.
 
+## User Interface
+![User Interface](https://github.com/Kowshik-R-2026/Weather_Application/blob/main/User%20Interface.png)
+
 ## Features
 
 - Real-time weather data fetching from the OpenWeatherMap API
