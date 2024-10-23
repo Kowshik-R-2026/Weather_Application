@@ -52,9 +52,18 @@ python app.py
 - Adjust the update frequency for real-time weather data.
 - Enable or disable alerts using the toggle switch.
 - Set notification intervals to receive timely updates.
+
+# Security features:
+- A universal data fetching service using docker to remove the need for API Key on the client. (under development)
+- Rate Limiter and Data Privacy compliance
+
+# Performance Optimizations:
+- Request only the necessary data fields from APIs to reduce the data being transmitted and processed.
+- Fast UI Response and Summary Generation.
+- Efficient Memory management when the program in running in the background. (under development)
   
 ## Real-time Weather Updates:
 The application will periodically fetch and display the weather information based on the selected interval.
 
 ## Temperature Alerts:
-If the current temperature goes below or above the specified limits, you will receive a notification alerting you of the situation.
+If the current temperature goes below or above the specified limits, you will receive a notification of the situation.
